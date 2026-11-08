@@ -28,5 +28,8 @@
 
 - Comment on the related GitHub issue as you progress (status, decisions, blockers)
 - Close the issue when the work is done, with a summary comment
-- Always show the user the exact content of any change (code, new issue, comment, file edit)
+- Always show the user the exact content of any change (code, issue text, comment, file edit)
   before committing or posting it, and wait for approval
+- For code changes, show the exact **diff** (unified diff format) of every modified file
+  before committing or pushing
+- A 👍 reaction from the user counts as approval
