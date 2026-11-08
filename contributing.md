@@ -22,3 +22,8 @@
 ## Pull requests
 
 - PRs without tests for new behavior will be refused
+
+## Transparency
+
+- Before any commit, issue, comment, or file edit, display the exact proposed
+  content to the user for review and wait for approval
