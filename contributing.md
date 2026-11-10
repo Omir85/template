@@ -11,6 +11,7 @@
 
 - Follow existing conventions in the codebase, even if you'd do it differently
 - Don't refactor unrelated code while implementing a feature
+- Every function, method, and class must have a short docstring explaining what it does (one line is enough for simple functions)
 
 ## What must NOT be committed
 
